@@ -1,0 +1,185 @@
+2024-10-23 12:19:50 - INFO - ====== WebDriver manager ======
+2024-10-23 12:19:50 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:19:50 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:19:50 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:21:00 - INFO - ====== WebDriver manager ======
+2024-10-23 12:21:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:21:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:21:00 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:21:43 - INFO - ====== WebDriver manager ======
+2024-10-23 12:21:43 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:21:43 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:21:43 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:21:44 - INFO - Web driver set up completed.
+2024-10-23 12:21:44 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:23:27 - INFO - ====== WebDriver manager ======
+2024-10-23 12:23:27 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:23:27 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:23:27 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:23:28 - INFO - Web driver set up completed.
+2024-10-23 12:23:28 - INFO - Accessed URL: https://example.com/hotel-list
+2024-10-23 12:23:28 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:23:53 - INFO - ====== WebDriver manager ======
+2024-10-23 12:23:53 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:23:53 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:23:53 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:23:54 - INFO - Web driver set up completed.
+2024-10-23 12:23:55 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:23:55 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:27:18 - INFO - ====== WebDriver manager ======
+2024-10-23 12:27:18 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:27:18 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:27:18 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:27:19 - INFO - Web driver set up completed.
+2024-10-23 12:27:20 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:27:20 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:27:35 - INFO - ====== WebDriver manager ======
+2024-10-23 12:27:35 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:27:35 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:27:35 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:27:36 - INFO - Web driver set up completed.
+2024-10-23 12:27:37 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:27:37 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:27:48 - INFO - ====== WebDriver manager ======
+2024-10-23 12:27:48 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:27:48 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:27:48 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:27:49 - INFO - Web driver set up completed.
+2024-10-23 12:27:50 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:27:50 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:29:34 - INFO - ====== WebDriver manager ======
+2024-10-23 12:29:34 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:29:34 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:29:34 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:29:34 - INFO - Web driver set up completed.
+2024-10-23 12:29:35 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:29:35 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:29:35 - INFO - Overlay hidden using JavaScript.
+2024-10-23 12:29:36 - INFO - Download complete.
+2024-10-23 12:29:36 - INFO - File download initiated and completed.
+2024-10-23 12:29:39 - INFO - Latest downloaded file found: /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.xlsx
+2024-10-23 12:30:32 - INFO - ====== WebDriver manager ======
+2024-10-23 12:30:33 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:30:33 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:30:33 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:30:33 - INFO - Web driver set up completed.
+2024-10-23 12:30:34 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:30:34 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:30:34 - INFO - Overlay hidden using JavaScript.
+2024-10-23 12:30:35 - INFO - Download complete.
+2024-10-23 12:30:35 - INFO - File download initiated and completed.
+2024-10-23 12:30:38 - INFO - Latest downloaded file found: /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.xlsx
+2024-10-23 12:32:40 - INFO - ====== WebDriver manager ======
+2024-10-23 12:32:40 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:32:41 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:32:41 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:32:41 - INFO - Web driver set up completed.
+2024-10-23 12:32:42 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:32:42 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:32:42 - INFO - Overlay hidden using JavaScript.
+2024-10-23 12:32:43 - INFO - Download complete.
+2024-10-23 12:32:43 - INFO - File download initiated and completed.
+2024-10-23 12:32:46 - INFO - Latest downloaded file found: /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.xlsx
+2024-10-23 12:32:46 - INFO - Excel file processed and saved as CSV: /home/ubuntu/hotel/hotel_list.csv
+2024-10-23 12:32:46 - INFO - SQLAlchemy engine created.
+2024-10-23 12:33:44 - INFO - ====== WebDriver manager ======
+2024-10-23 12:33:45 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:33:45 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:33:45 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:33:45 - INFO - Web driver set up completed.
+2024-10-23 12:33:46 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:33:46 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:33:46 - INFO - Overlay hidden using JavaScript.
+2024-10-23 12:33:47 - INFO - Download complete.
+2024-10-23 12:33:47 - INFO - File download initiated and completed.
+2024-10-23 12:33:50 - INFO - Latest downloaded file found: /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.xlsx
+2024-10-23 12:33:50 - INFO - Excel file processed and saved as CSV: /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.csv
+2024-10-23 12:33:50 - INFO - SQLAlchemy engine created.
+2024-10-23 12:33:50 - INFO - 126 rows of new data saved to MariaDB successfully.
+2024-10-23 12:33:50 - INFO - File /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.xlsx deleted.
+2024-10-23 12:33:50 - INFO - File /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.csv deleted.
+2024-10-23 12:33:50 - INFO - Attempting to download file using XPath: //button[contains(@class, 'purple') and contains(text(), '등급결정 호텔 리스트')]
+2024-10-23 12:33:50 - WARNING - Failed to hide overlay: Message: javascript error: Cannot read properties of null (reading 'style')
+  (Session info: chrome=129.0.6668.89)
+Stacktrace:
+#0 0x61bea475cb9a <unknown>
+#1 0x61bea4442670 <unknown>
+#2 0x61bea44484a3 <unknown>
+#3 0x61bea444a429 <unknown>
+#4 0x61bea44d6d5c <unknown>
+#5 0x61bea44b6b82 <unknown>
+#6 0x61bea44d5dd6 <unknown>
+#7 0x61bea44b6923 <unknown>
+#8 0x61bea44846e7 <unknown>
+#9 0x61bea44856de <unknown>
+#10 0x61bea472666b <unknown>
+#11 0x61bea472a611 <unknown>
+#12 0x61bea47124e5 <unknown>
+#13 0x61bea472b192 <unknown>
+#14 0x61bea46f76ef <unknown>
+#15 0x61bea474b9d8 <unknown>
+#16 0x61bea474bba7 <unknown>
+#17 0x61bea475b9ec <unknown>
+#18 0x77546d89ca94 <unknown>
+#19 0x77546d929c3c <unknown>
+
+2024-10-23 12:33:50 - INFO - Download complete.
+2024-10-23 12:33:50 - INFO - File download initiated and completed.
+2024-10-23 12:33:53 - INFO - Latest downloaded file found: /home/ubuntu/hotel/한국관광협회중앙회_호텔업등급결정현황_20241023.xlsx
+2024-10-23 12:33:53 - INFO - Excel file processed and saved as CSV: /home/ubuntu/hotel/한국관광협회중앙회_호텔업등급결정현황_20241023.csv
+2024-10-23 12:33:53 - INFO - SQLAlchemy engine created.
+2024-10-23 12:35:12 - INFO - ====== WebDriver manager ======
+2024-10-23 12:35:12 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:35:12 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:35:12 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:35:13 - INFO - Web driver set up completed.
+2024-10-23 12:35:21 - INFO - ====== WebDriver manager ======
+2024-10-23 12:35:21 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:35:21 - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 12:35:21 - INFO - Driver [/home/ubuntu/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 12:35:22 - INFO - Web driver set up completed.
+2024-10-23 12:35:23 - INFO - Accessed URL: https://www.hotelrating.or.kr/status_hotel_list.do
+2024-10-23 12:35:23 - INFO - Attempting to download file using XPath: //button[contains(@class, 'purple') and contains(text(), '등급결정 호텔 리스트')]
+2024-10-23 12:35:23 - INFO - Overlay hidden using JavaScript.
+2024-10-23 12:35:23 - INFO - Download complete.
+2024-10-23 12:35:23 - INFO - File download initiated and completed.
+2024-10-23 12:35:26 - INFO - Latest downloaded file found: /home/ubuntu/hotel/한국관광협회중앙회_호텔업등급결정현황_20241023.xlsx
+2024-10-23 12:35:26 - INFO - Excel file processed and saved as CSV: /home/ubuntu/hotel/한국관광협회중앙회_호텔업등급결정현황_20241023.csv
+2024-10-23 12:35:26 - INFO - SQLAlchemy engine created.
+2024-10-23 12:35:26 - INFO - 829 rows of new data saved to MariaDB successfully.
+2024-10-23 12:35:26 - INFO - File /home/ubuntu/hotel/한국관광협회중앙회_호텔업등급결정현황_20241023.xlsx deleted.
+2024-10-23 12:35:26 - INFO - File /home/ubuntu/hotel/한국관광협회중앙회_호텔업등급결정현황_20241023.csv deleted.
+2024-10-23 12:35:26 - INFO - Attempting to download file using XPath: //button[contains(@class, 'gray') and contains(text(), '제주특별자치도관광협회 등급결정 호텔 리스트')]
+2024-10-23 12:35:26 - WARNING - Failed to hide overlay: Message: javascript error: Cannot read properties of null (reading 'style')
+  (Session info: chrome=129.0.6668.89)
+Stacktrace:
+#0 0x57c1e0082b9a <unknown>
+#1 0x57c1dfd68670 <unknown>
+#2 0x57c1dfd6e4a3 <unknown>
+#3 0x57c1dfd70429 <unknown>
+#4 0x57c1dfdfcd5c <unknown>
+#5 0x57c1dfddcb82 <unknown>
+#6 0x57c1dfdfbdd6 <unknown>
+#7 0x57c1dfddc923 <unknown>
+#8 0x57c1dfdaa6e7 <unknown>
+#9 0x57c1dfdab6de <unknown>
+#10 0x57c1e004c66b <unknown>
+#11 0x57c1e0050611 <unknown>
+#12 0x57c1e00384e5 <unknown>
+#13 0x57c1e0051192 <unknown>
+#14 0x57c1e001d6ef <unknown>
+#15 0x57c1e00719d8 <unknown>
+#16 0x57c1e0071ba7 <unknown>
+#17 0x57c1e00819ec <unknown>
+#18 0x77df5429ca94 <unknown>
+#19 0x77df54329c3c <unknown>
+
+2024-10-23 12:35:27 - INFO - Download complete.
+2024-10-23 12:35:27 - INFO - File download initiated and completed.
+2024-10-23 12:35:30 - INFO - Latest downloaded file found: /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.xlsx
+2024-10-23 12:35:30 - INFO - Excel file processed and saved as CSV: /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.csv
+2024-10-23 12:35:30 - INFO - SQLAlchemy engine created.
+2024-10-23 12:35:30 - INFO - 126 rows of new data saved to MariaDB successfully.
+2024-10-23 12:35:30 - INFO - File /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.xlsx deleted.
+2024-10-23 12:35:30 - INFO - File /home/ubuntu/hotel/제주특별자치도관광협회_호텔업등급결정현황_20241023.csv deleted.
+2024-10-23 12:35:31 - INFO - Crawling and saving to DB completed in 9.94 seconds.
