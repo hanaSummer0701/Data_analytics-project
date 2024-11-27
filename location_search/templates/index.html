@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>행사장 위치 찾기</title>
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=c006dd86f1262436cd42e649bec5916d&libraries=services"></script>
+    <!-- CSS 파일 링크 -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+</head>
+<body>
+    <h2>행사장 위치</h2>
+    <div id="map"></div>
+    <!-- 위치 정보를 담을 JS 변수 설정 -->
+    <script>
+        var locations = {{ locations|safe }};  // Flask에서 위치 데이터 전달
+    </script>
+    <!-- static 폴더에서 map.js 파일을 불러오기 -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/map.js') }}"></script>
+    <div id="info">
+        <label for="regionSelect">지역 선택:</label>
+        <select id="regionSelect">
+            <option value="">모두 보기</option>
+            <!-- Flask에서 지역 데이터를 가져와 여기에 옵션을 추가 -->
+            {% for region in regions %}
+                <option value="{{ region }}">{{ region }}</option>
+            {% endfor %}
+        </select>
+        <table border="1" style="width: 100%;">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Address</th>
+                    <th>Point</th>
+                    <th>URL</th>
+                    <th>Region</th>
+                    <th>Condition</th>
+                    <th>Contact</th>
+                    <th>Station</th> <!-- 가까운 역 헤더 -->
+                    <th>Distance (m)</th> <!-- 거리 헤더 -->
+                </tr>
+            </thead>
+            <tbody id="infoTableBody">
+                <!-- 마커 클릭 시 데이터가 이곳에 추가됩니다. -->
+            </tbody>
+        </table>
+        <button id="downloadBtn">엑셀 다운로드</button>
+        <script>
+            window.onload = function() {
+                document.getElementById('downloadBtn').addEventListener('click', function() {
+                    const data = []; // 데이터 배열을 초기화
+    
+                    // 헤더 추가
+                    const header = ['Title', 'Address', 'Point', 'URL', 'Region', 'Condition', 'Contact', 'Station', 'Distance (m)'];
+                    data.push(header); // 헤더를 data 배열에 추가
+
+                    // 현재 표의 데이터를 가져와 data 배열에 추가
+                    const rows = document.querySelectorAll('#infoTableBody tr');
+                    rows.forEach(row => {
+                        const cols = row.querySelectorAll('td');
+                        const rowData = Array.from(cols).map(col => col.innerText); // 각 행의 데이터 수집
+                        data.push(rowData); // 수집된 행 데이터를 data 배열에 추가
+                    });
+    
+                    // 엑셀 파일 생성
+                    const worksheet = XLSX.utils.aoa_to_sheet(data);
+                    const workbook = XLSX.utils.book_new();
+                    XLSX.utils.book_append_sheet(workbook, worksheet, '데이터');
+    
+                    // 파일 다운로드
+                    XLSX.writeFile(workbook, '데이터.xlsx');
+                });
+            };
+        </script>
+    </div>
+</body>
+</html>
